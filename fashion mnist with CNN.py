@@ -1,4 +1,5 @@
 # build and train cnn model for fashion mnist dataset
+# this is a simple code for bigener
 
 # import library
 from keras.datasets import fashion_mnist
