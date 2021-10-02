@@ -1,3 +1,5 @@
+# build and train cnn model for fashion mnist dataset
+
 # import library
 from keras.datasets import fashion_mnist
 import matplotlib.pyplot as plt
